@@ -1,0 +1,5 @@
+pystyle
+requests
+colorama
+pybase64
+fade
