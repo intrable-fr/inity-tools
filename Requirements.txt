@@ -4,3 +4,4 @@ colorama
 pybase64
 fade
 bs64
+clear_screen
