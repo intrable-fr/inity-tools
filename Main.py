@@ -72,7 +72,7 @@ while True:
         
         
     if gg == 1:
-        subprocess.run(['python', 'program\\checker.py']) # chaque réponse indiquer ( 1 jusqu'a 18 ) lanceras ducoup le program indiquer
+        subprocess.run(['python', 'program\\checker.py']) # chaque réponse indiquer ( 1 jusqu'a 20 ) lanceras ducoup le program indiquer grace a subprocess
         
         
     elif gg == 2:
