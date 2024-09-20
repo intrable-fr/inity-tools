@@ -5,3 +5,6 @@ pybase64
 fade
 bs64
 clear_screen
+fake_useragent
+uuid
+py-socket
