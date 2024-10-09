@@ -36,7 +36,7 @@ root = (Fore.MAGENTA + """
 ascii_art = fade.purplepink(ascii_art)
 print(ascii_art)
 
-choice = input(root)          # ici , j'ai juste preferer mettre un input qu'un print()
+choice = input(root)         
 if "01" in choice.lower():
     os.system("python checker.py")      # si vous ne comprenez pas pourquoi j'ai fais ca , c juste pour m'aider pour le subprocess                                             
 
